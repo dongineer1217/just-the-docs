@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+title: Dongineer1217
+description: Dongineer Dev Blog
+baseurl: "/" # the subpath of your site, e.g. /blog
+repository: https://dongineer1217.github.io # for github-metadata
 
 permalink: pretty
 
@@ -61,10 +60,10 @@ search:
   previews: 2
   # Maximum amount of words to display before a matched word in the preview
   # Default: 5
-  preview_words_before: 3
+  preview_words_before: 5
   # Maximum amount of words to display after a matched word in the preview
   # Default: 10
-  preview_words_after: 3
+  preview_words_after: 10
   # Set the search token separator
   # Default: /[\s\-/]+/
   # Example: enable support for hyphenated search words
